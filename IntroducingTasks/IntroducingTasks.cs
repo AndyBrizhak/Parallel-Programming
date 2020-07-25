@@ -57,15 +57,15 @@ namespace IntroducingTasks
             Write('.');
         }
 
-        static void Main(string[] args)
-        {
-            //CreateAndStartSimpleTasks();
-            //TasksWithState();
-            TasksWithReturnValues();
+        //static void Main(string[] args)
+        //{
+        //    //CreateAndStartSimpleTasks();
+        //    //TasksWithState();
+        //    TasksWithReturnValues();
 
-            Console.WriteLine("Main program done, press any key.");
-            Console.ReadKey();
-        }
+        //    Console.WriteLine("Main program done, press any key.");
+        //    Console.ReadKey();
+        //}
 
         public static int TextLength(object o)
         {
