@@ -9,15 +9,15 @@ namespace IntroducingTasks
 {
     class CancelingTasks
     {
-        static void Main(string[] args)
-        {
-            CancelableTasks();
-            MonitoringCancelation();
-            CompositeCancelationToken();
+        //static void Main(string[] args)
+        //{
+        //    CancelableTasks();
+        //    MonitoringCancelation();
+        //    CompositeCancelationToken();
 
-            Console.WriteLine("Main program done, press any key.");
-            Console.ReadKey();
-        }
+        //    Console.WriteLine("Main program done, press any key.");
+        //    Console.ReadKey();
+        //}
 
         private static void WaitingForTimeToPass()
         {

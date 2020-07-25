@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="CancelingTasks.cs" />
     <Compile Include="IntroducingTasks.cs" />
+    <Compile Include="WaitingForTimeToPass.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
